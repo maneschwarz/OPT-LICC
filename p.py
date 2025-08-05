@@ -59,4 +59,4 @@ def analizar_respuestas(k=1, n=5):
     imprimir_top("carrera con peso", valores_peso, n)
     imprimir_top("carrera real", intereses, n)
 
-analizar_respuestas()
+analizar_respuestas(k=20, n=20)
